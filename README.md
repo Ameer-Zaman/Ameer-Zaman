@@ -1,23 +1,18 @@
+ <div align="center">
 
-<!-- ===================================================== -->
-<!--          AMEER ZAMAN | CYBERPUNK PROFILE 2.0           -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:30105C,100:00E5FF&text=AMEER%20ZAMAN&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=00E5FF&strokeWidth=2&fontAlignY=50&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=70&descColor=00E5FF" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;I+build+things+for+the+web+%F0%9F%92%BB;Turning+ideas+into+reality+%E2%9C%A8;Code.+Create.+Innovate.+Repeat.+%F0%9F%9A%80" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:050505,50:17130D,100:050505&text=AMEER%20ZAMAN&fontSize=65&fontColor=D6B77A&fontAlignY=45&desc=THE%20ART%20OF%20BUILDING%20DIGITAL%20EXPERIENCES&descSize=13&descColor=C5B58E&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ameer-Zaman&style=for-the-badge&color=00E5FF&label=VISITORS" />
-<img src="https://img.shields.io/github/followers/Ameer-Zaman?style=for-the-badge&color=8A2BE2&label=FOLLOWERS&logo=github" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=25&pause=1600&color=D6B77A&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Creating+Beyond+The+Ordinary;Turning+Imagination+Into+Reality;One+Line+At+A+Time." />
 
-<br/><br/>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Ameer-Zaman)
-[![Repositories](https://img.shields.io/badge/EXPLORE-PROJECTS-15152D?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/Ameer-Zaman?tab=repositories)
+*Developer · Creator · Dreamer*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ameer-Zaman&style=flat-square&color=B89B5E&label=VISITORS" />
 
 </div>
 
@@ -25,170 +20,147 @@
 
 <div align="center">
 
-## ◈ WHO AM I?
+# THE STORY
+
+*"Every great creation begins with an idea."*
 
 </div>
 
-```bash
-┌──[ameer@developer]─[~/profile]
-└─$ whoami
+### 01 — The Developer
 
-Name       : Ameer Zaman
-Role       : Full Stack Developer
-Mindset    : Creative Thinker
-Passion    : Building Digital Experiences
-Location   : India 🇮🇳
-Status     : Always Learning...
+Hello, I'm **Ameer Zaman**.
 
-└─$ cat mission.txt
+A passionate Full Stack Developer who believes that technology is more than just writing code. It's about transforming imagination into experiences that people can interact with.
 
-"Transforming imagination into digital reality.
- Exploring technology, creating experiences,
- and writing code that makes a difference."
+I love exploring new technologies, creating meaningful projects, and continuously pushing my creative boundaries.
+
+```javascript
+const ameer = {
+    name: "Ameer Zaman",
+    title: "Full Stack Developer",
+    country: "India",
+    passion: "Building digital experiences",
+    philosophy: "Think. Create. Improve. Repeat.",
+    currentMission: "Making ideas come alive."
+};
 ```
 
-### 👨‍💻 About Me
+---
 
-- 🚀 I'm a passionate Full Stack Developer.
-- 💡 I love creating creative and useful projects.
-- 🌱 I'm constantly exploring new technologies.
-- ⚡ I enjoy solving problems through code.
-- 🎯 My mission is to build something extraordinary.
+<div align="center">
+
+# THE CRAFT
+
+*Tools are just the beginning. Creativity makes the difference.*
+
+</div>
+
+### 02 — Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git&theme=dark" />
+
+<br/><br/>
+
+`HTML` &nbsp; · &nbsp; `CSS` &nbsp; · &nbsp; `JavaScript` &nbsp; · &nbsp; `React` &nbsp; · &nbsp; `Node.js` &nbsp; · &nbsp; `Git`
+
+</div>
 
 ---
 
 <div align="center">
 
-## ◈ MY TECH UNIVERSE
+# THE JOURNEY
 
-*The technologies powering my creativity.*
+*Every commit tells a story.*
 
-### ⚡ Languages & Frontend
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+### 03 — GitHub Analytics
 
-### 🔥 Backend & Tools
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode&theme=dark" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=Ameer-Zaman&show_icons=true&hide_border=true&bg_color=080808&title_color=D6B77A&icon_color=B89B5E&text_color=E8E1D5" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Zaman&layout=compact&hide_border=true&bg_color=080808&title_color=D6B77A&text_color=E8E1D5" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer-Zaman&hide_border=true&background=080808&ring=D6B77A&fire=B89B5E&currStreakLabel=D6B77A&sideLabels=D6B77A&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+</div>
+
+---
+
+<div align="center">
+
+# THE CREATIONS
+
+*Ideas become reality through code.*
+
+</div>
+
+### 04 — Selected Projects
+
+<div align="center">
+
+<a href="https://github.com/Ameer-Zaman?tab=repositories">
+
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-17130D?style=for-the-badge&logo=github&logoColor=D6B77A&labelColor=080808" />
+
+</a>
+
+<br/><br/>
+
+**Discover my projects, experiments and creations.**
+
+</div>
+
+<!-- Add your actual project cards here when ready. -->
+
+---
+
+<div align="center">
+
+# THE CONTRIBUTION FILM
+
+*Consistency creates excellence.*
+
+<img width="100%" src="https://raw.githubusercontent.com/Ameer-Zaman/Ameer-Zaman/output/github-contribution-grid-snake-dark.svg" alt="Ameer Zaman Contribution Animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+# THE CONNECTION
+
+*Every great journey becomes better when shared.*
 
 <br/>
-
-<img src="https://img.shields.io/badge/HTML5-FF5722?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GITHUB COMMAND CENTER
-
-*My coding journey, represented in data.*
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ameer-Zaman&show_icons=true&count_private=true&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&ring_color=00F7FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Zaman&layout=compact&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer-Zaman&theme=transparent&hide_border=true&background=050816&stroke=8A2BE2&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CONTRIBUTION MATRIX
-
-*Every contribution is another step forward.*
-
-<img src="https://raw.githubusercontent.com/Ameer-Zaman/Ameer-Zaman/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ FEATURED PROJECTS
-
-*Ideas transformed into code.*
-
-</div>
-
-<!-- Replace the example repository names below with your actual projects -->
-
-<div align="center">
-
-<a href="https://github.com/Ameer-Zaman?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-EXPLORE%20ALL-15152D?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
-
-<br/><br/>
-
-**Want to explore my latest work?**
-
-<a href="https://github.com/Ameer-Zaman?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</div>
-
-<!--
-To add individual project cards, copy this block and replace PROJECT-NAME:
-
-<a href="https://github.com/Ameer-Zaman/PROJECT-NAME">
-  <img align="center"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Ameer-Zaman&repo=PROJECT-NAME&theme=tokyonight&hide_border=true" />
-</a>
--->
-
----
-
-<div align="center">
-
-## ◈ CONNECT WITH ME
-
-*Let's build something amazing together.*
 
 <a href="https://github.com/Ameer-Zaman">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
+
+<img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=D6B77A" />
+
 </a>
 
-<!-- Add your social links when ready:
-<a href="YOUR-LINKEDIN-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="YOUR-PORTFOLIO-URL">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
--->
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ DEVELOPER PHILOSOPHY
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=00F7FF&center=true&vCenter=true&width=650&lines=Think+Big.+Code+Smart.+Build+Great.;Dream+%E2%86%92+Design+%E2%86%92+Develop+%E2%86%92+Deploy;Never+Stop+Learning+%F0%9F%9A%80" />
+*"The future belongs to those who create it."*
 
 <br/>
 
-### ⚡ "The best way to predict the future is to create it."
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=20&duration=3000&pause=1500&color=D6B77A&center=true&vCenter=true&width=500&lines=Thank+you+for+watching.;This+is+only+the+beginning." />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:30105C,100:050816&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:302414,100:050505&text=THE%20END%20%E2%80%94%20NOT%20THE%20LIMIT&fontSize=19&fontColor=D6B77A&animation=fadeIn" />
 
-**© Ameer Zaman | Crafted with passion & code.**
+**AMEER ZAMAN · © 2026**
 
 </div>
